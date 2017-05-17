@@ -46,17 +46,17 @@ footer:
     privacy: privacy statement
     blog: Blog
     termsOfUse: terms of use
-    copyright: Copyright &copy; E.Tutorial 2016
+    copyright: Copyright &copy; E.Tutorial 2017
 nav:
     et: E.Tutorials Login
     contact: Contact
     team: Team
     competences: Expertise
-    portfolio: Courses
+    news: News
     tools: Tools
     didactics: Didactics
     publications: Publications
-course:
+news:
     heading: Best practice course
     subHeading: Our courses are filed tested by over 800 students at the ETH. The courses are used by numerous universities of applied science and high schools for informatics courses.
     more: More courses
@@ -98,7 +98,7 @@ tool:
         text: Sioux (Secure Interactive Online eXam) organises the process of generating and managing exam questions by several authors. It allows to generate and execute formative and summative exams and the correction and analysis of exam.
 team:
     heading: Our team
-    subHeading: We all currently work at the department of computer science at the ETH Zürich at the chair of information technology and education (Prof. Dr. Juraj Hromkovic).
+    subHeading: We all currently work at the department of computer science at the ETH Zürich.
     end: In addition we have the support of many persoans and institurions.
 
 pricing:

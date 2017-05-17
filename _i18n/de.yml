@@ -46,20 +46,19 @@ footer:
     privacy: Datenschutzerklärung
     blog: Blog
     termsOfUse: Geschäftsbedingungen
-    copyright: Copyright &copy; E.Tutorial 2015
+    copyright: Copyright &copy; E.Tutorial 2017
 nav:
     et: E.Tutorials Login
     contact: Kontakt
     team: Team
     competences: Kompetenz
-    portfolio: Kurse
+    news: News
     tools: Tools
     didactics: Didaktik
     publications: Publikationen
-course:
-    heading: Best Practice Kurse
-    subHeading: Unsere Kurse sind an der ETH jährlich mit über 800 Studierenden pro Jahr im Einsatz. Extern setzen zahlreiche Fachhochschulen und Gymnasien in ihrem Unterricht ein.
-    more: Weitere Kurse
+news:
+    heading: News
+    subHeading: Aktuelle News zu den E.Tutorials
 competence:
     heading: Unsere Kompetenz
     subHeading: Zentrum unserer Aktivitäten ist ein Educational Engineering, mit dem Ziel, Lernumgebungen zur Vermittlung von Informatik-Grundlagen zu entwickeln und für verschiedene Zielgruppen bereitzustellen.
@@ -98,7 +97,7 @@ tool:
         text: Sioux (Secure Interactive Online eXam) ermöglicht das Erstellen und Verwalten von Prüfungsfragen durch mehrere Autoren, das Zusammenstellen und Durchführen von formativen und summativen Prüfungen, die Korrektur der Prüfung sowie die Analyse der Resultate.
 team:
     heading: Unser Team
-    subHeading: Wir arbeiten alle am Department Informatik der ETH Zürich am Lehrstuhl für Informationstechnologie und Ausbildung (Prof. Dr. Juraj Hromkovic).
+    subHeading: Wir arbeiten alle am Department Informatik der ETH Zürich.
     end: Zusätzlich haben wir die Unterstützung von vielen weiteren Personen und Institutionen.
 
 pricing:

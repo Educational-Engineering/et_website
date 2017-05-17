@@ -16,7 +16,7 @@ color:
   secondary-dark: 231f20
 
 collections:
-  courses:
+  news:
     output: true
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
