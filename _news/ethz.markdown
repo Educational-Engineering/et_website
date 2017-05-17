@@ -1,5 +1,5 @@
 ---
-Title: Projekt PELE im Newsletter der Rektorin der ETHZ
+title: Projekt PELE im Newsletter der Rektorin der ETHZ
 subtitle:
 date: 2017-02-08
 lang: de
