@@ -1,7 +1,8 @@
 ---
-title: Google
-subtitle: 5 Module - 20 bis 40 Stunden
-date: 2014-07-18
+title: Google CS4HS-Award
+subtitle:
+date: 2017-05-01
 lang: de
-description: In diesem Einführungskurs werden Sie in die wichtigsten Programmierkonzepte eingeführt und setzen die Konzepte unter Anleitung eines elektronischen Tutorials direkt selber auf der Basis kleiner Programmierprojekte um.
+description: Wir sind mit dem CS4HS (Computer Science fo(u)r High School) Award von Google ausgezeichnet worden. Mit dem Preisgeld werden wir unsere Lernmaterialien und deren Einsatz in den Schulen weiter entwickeln können. [Zum Tweet...](https://twitter.com/Google_CH/status/857948482866487296)
 ---
+
